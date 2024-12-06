@@ -1,6 +1,6 @@
 ![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Binaytosh Sahu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software engineer from India</h3>
 <img align="right" alt="Coding" width="400"src="https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=ecf05e47lfzx6kug2ou0n13jp6g3sp0hp8u9becz0v5wae5p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binaytosh&label=Profile%20views&color=0e75b6&style=flat" alt="binaytosh" /> </p>
